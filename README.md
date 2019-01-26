@@ -11,4 +11,5 @@ Please read [my blog article](http://nicodjimenez.github.io/2014/08/08/lstm.html
 
 This sample code has been ported to the D programming language by Mathias Baumann: https://github.com/Marenz/lstm as well as Julia by @hyperdo https://github.com/hyperdo/julia-lstm and Alfiuman in C++ (with CUDA) https://github.com/Alfiuman/WhydahGally-LSTM-MLP.
 
+#struct detail
 https://www.cnblogs.com/zhangchaoyang/articles/6684906.html#undefined
